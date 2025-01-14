@@ -1,0 +1,7 @@
+R-Posterior_cingulate_cortex
+R-Medial_prefrontal_cortex
+R-Medial_temporal_lobe
+R-Angular_gyrus
+R-Dorsolateral_prefrontal_gyrus
+R_Anterior_cingulate_cortex
+R-Posterior_parietal_cortex
