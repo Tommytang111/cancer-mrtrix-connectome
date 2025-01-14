@@ -1,0 +1,14 @@
+L-Posterior cingulate cortex
+L-Medial prefrontal cortex
+L-Medial temporal lobe
+L-Angular gyrus
+L-Dorsolateral prefrontal gyrus
+L-Anterior cingulate cortex
+L-Posterior parietal cortex
+R-Posterior cingulate cortex
+R-Medial prefrontal cortex
+R-Medial temporal lobe
+R-Angular gyrus
+R-Dorsolateral prefrontal gyrus
+R_Anterior cingulate cortex
+R-Posterior parietal cortex
